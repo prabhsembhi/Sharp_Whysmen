@@ -1,0 +1,22 @@
+$myColor: red;
+$color2: black;
+
+
+div {
+//   background-color: $myColor;
+ // background-image: url(../images/logo.png);
+  
+}
+h1{
+    color: $color2;
+}
+
+//media query
+@media (min-width: 992px)
+{
+    //navbar
+.navbar-nav {
+   position: absolute;
+   right: 20px;
+}}
+
